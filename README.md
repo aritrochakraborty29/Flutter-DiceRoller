@@ -13,7 +13,7 @@ This Flutter app rolls two dice at random and you are provided with a button whi
 <img src="images/Capture1.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
-     width="200"/> <img src="https://media.giphy.com/media/KdBs9k4NdQyRBDEu4e/giphy.gif"
+     width="217" /> <img src="https://media.giphy.com/media/mXdJC2HfZCPfGiWD5x/200w_d.gif"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/>
