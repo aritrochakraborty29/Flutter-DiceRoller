@@ -21,6 +21,16 @@ This Flutter app rolls two dice at random and you are provided with a button whi
 ## NOTE:
 This project is subject to change by the developer and is still in development
 
+## How to run this
+Running this is as simple as it gets. Follow this steps
+1. Open your terminal (NOTE: git bash prefered/ Terminal on VS Code)
+2. Navigate to the project folder where you have cloned this repo.
+3. Open an emulator or plug in a real device
+4. Type the following command in the terminal 
+     ```
+     flutter run
+     ```
+     
 ## Pull Request
 
 Pull Requests are welcome. Please follow these rules for the ease of understanding:
